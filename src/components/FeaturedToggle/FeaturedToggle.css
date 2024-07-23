@@ -1,0 +1,9 @@
+.featured-toggle {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px; 
+  }
+  
+  .featured-toggle label {
+    margin-right: 10px;
+  }
